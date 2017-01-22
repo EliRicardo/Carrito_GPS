@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B8:15:B2:D6:29:12:4C:E7:FE:1F:71:33:D5:6D:CA:41:6A:35:68:8B%3Bcom.example.ricardoom.app_gps_arduino
+
+    You can also add your credentials to an existing key, using this line:
+    B8:15:B2:D6:29:12:4C:E7:FE:1F:71:33:D5:6D:CA:41:6A:35:68:8B;com.example.ricardoom.app_gps_arduino
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA4lQj_iz96JhiNX3ePoYxF8R-N5xPz6uM</string>
+</resources>

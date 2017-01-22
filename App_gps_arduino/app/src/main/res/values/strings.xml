@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App_gps_arduino</string>
+    <string name="title_activity_maps_activity__gps">Map</string>
+</resources>
